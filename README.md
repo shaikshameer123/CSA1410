@@ -1,0 +1,9 @@
+# CSA1410--Compiler-Design-for-lex-programming                   
+1. Write a LEX program to identify the capital words from the given input.
+2. Write a LEX program to check whether the given input is digit or not.
+3. The Company ABC runs with employees with several departments. The Organization manager had all the mobile numbers of employees. Assume that you are the manager and need to verify the valid mobile numbers because there may be some invalid numbers present. Implement a LEX program to check whether the mobile number is valid or not.
+4. In a class, an English teacher was teaching the vowels and consonants to the students.  She says “Vowel sounds allow the air to flow freely, causing the chin to drop noticeably, whilst consonant sounds are produced by restricting the air flow”. As a  class activity the students are asked to identify the vowels and consonants in the given word/sentence and count the number of elements in each.  Write an algorithm to help the student to count the number of vowels and consonants in the given sentence.
+5. Keywords are predefined, reserved words used in programming that have special meanings to the compiler. Keywords are part of the syntax and they cannot be used as an identifier. In general there are 32 keywords. The prime function of Lexical Analyser is token Generation. Among the 6 types of tokens, differentiating Keyword and Identifier is a challenging issue. Thus write a LEX program to separate keywords and identifiers.
+6.Write a LEX program to identify and count positive and negative numbers.
+7. Write a LEX program to recognize numbers and words in a statement. Pooja is a small girl of age 3 always fond of games. Due to the pandemic, she was not allowed to play outside. So her mother designs a gaming event by showing a flash card. Pooja has to separate the numbers in one list and words in another list shown in the flash card.
+8.Write a LEX program to accept string starting with vowel.   
